@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <p><img src="./Vanilla-1s-289px.gif" alt="Developer" /></p>
 </h1>
 </div>
-<h1>Hola a todos, aqui pueden tener una mirada de mis proyectos personales.. 😁</h1>
+<!-- <h1>Hola a todos, aqui pueden tener una mirada de mis proyectos personales.. 😁</h1> -->
 <div style="display: flexbox; flex-direction: column">
 <div style="flex: 1">
     <p>Habilidades/Skills</p>
