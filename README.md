@@ -1,4 +1,3 @@
-<h1>### Hi there 👋</h1>
 <!--
 **Minicoru/Minicoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>*** Hola a todos, yo soy Nicole Ruiz y pueden tener una mirada de mis proyectos personales..! 😎 ***</h1>
+<p>Hace algunos años comence a desarrollar en tecnologias orientadas principalmente al internet principalmente en soluciones que tienen que ver principalmente a al lado del servidor, bien <b>PHP</b>, <b>RUBY</b>, <b>Python</b>, etc...</p>
+<p>Entre estas tecnologias me fui ingresando a frameworks de desarrollo como <b>Laravel</b>, <b>Ruby on Rails</b> y <b>DJango</b>.</p>
+<p>Posteriormente me meti al mundo de la <b>Consultoria SAP</b> en la cual aun continuo realizando desarrollos <b>ABAP</b> y <b>Fiori (SAPUI5)</b>.</p>
+<p>Por motivos como privacidad de mis clientes y acuerdos de privacidad no puedo divulgar dichos proyectos por lo que estos no estaran disponibles de forma abierta o publica.</p>
