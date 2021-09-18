@@ -13,8 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>*** Hola a todos, yo soy Nicole Ruiz y pueden tener una mirada de mis proyectos personales..! 😎 ***</h1>
-<p>Hace algunos años comence a desarrollar en tecnologias orientadas principalmente al internet principalmente en soluciones que tienen que ver principalmente a al lado del servidor, bien <b>PHP</b>, <b>RUBY</b>, <b>Python</b>, etc...</p>
-<p>Entre estas tecnologias me fui ingresando a frameworks de desarrollo como <b>Laravel</b>, <b>Ruby on Rails</b> y <b>DJango</b>.</p>
-<p>Posteriormente me meti al mundo de la <b>Consultoria SAP</b> en la cual aun continuo realizando desarrollos <b>ABAP</b> y <b>Fiori (SAPUI5)</b>.</p>
-<p>Por motivos como privacidad de mis clientes y acuerdos de privacidad no puedo divulgar dichos proyectos por lo que estos no estaran disponibles de forma abierta o publica.</p>
+<div
+style="
+    background: url(./1143746.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position-y: -285px;
+    width: 100%;
+    height: auto;
+"
+>
+<h1 style="padding: 20px; width: 100%; height: auto; text-align: center"><img src="./Vanilla-1s-200px.gif" alt="Nicole"/><img src="./Vanilla-1s-170px.gif" alt="Nicole"/><p>♈️</p></h1>
+</div>
+<h1>Hola a todos, aqui pueden tener una mirada de mis proyectos personales.. 😁</h1>
+<div style="display: flexbox; flex-direction: column">
+<div style="flex: 1">
+    <p>Habilidades/Skills</p>
+    <ul>
+        <li><b>Javascript</b></li>
+        <li><b>Java</b></li>
+        <li><b>SQL</b></li>
+        <li><b>ABAP</b></li>
+        <li><b>Firebase</b></li>
+        <li><b>Google Cloud Platform</b></li>
+        <li><b>SAP Business Technology Platform</b></li>
+        <!-- <li><b>PHP</b></li> -->
+        <!-- <li><b>RUBY</b></li> -->
+        <!-- <li><b>Python</b></li> -->
+    </ul>
+</div>
+<div style="flex: 1">
+    <p>Frameworks</p>
+    <ul>
+        <li><b>SAPUI5 (Fiori)</b></li>
+        <li><b>React</b></li>
+        <li><b>React Native</b></li>
+        <li><b>Spring</b></li>
+    </ul>
+</div>
+</div>
