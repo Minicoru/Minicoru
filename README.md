@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <div
-style="
-    background: url(./1143746.png);
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-    background-position-y: -285px;
-    width: 100%;
-    height: auto;
-"
 >
-<h1 style="padding: 20px; width: 100%; height: auto; text-align: center"><img src="./Vanilla-1s-200px.gif" alt="Nicole"/><img src="./Vanilla-1s-170px.gif" alt="Nicole"/><p>♈️</p></h1>
+<h1 style="padding: 20px; width: 100%; height: auto; text-align: center">
+    <p>
+        <img src="./Vanilla-1s-200px.gif" alt="Nicole" /><img src="./Vanilla-1s-170px.gif" alt="Nicole" />
+    </p>
+    <p><img src="./Vanilla-1s-289px.gif" alt="Developer" /></p>
+</h1>
 </div>
 <h1>Hola a todos, aqui pueden tener una mirada de mis proyectos personales.. 😁</h1>
 <div style="display: flexbox; flex-direction: column">
