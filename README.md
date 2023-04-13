@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <p>Habilidades/Skills</p>
     <ul>
         <li><b>Javascript</b></li>
+        <li><b>Python</b></li>
         <li><b>Java</b></li>
         <li><b>SQL</b></li>
         <li><b>ABAP</b></li>
