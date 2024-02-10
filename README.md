@@ -13,40 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div
->
-<h1 style="padding: 20px; width: 100%; height: auto; text-align: center">
-    <p>
-        <img src="./Vanilla-1s-200px.gif" alt="Nicole" /><img src="./Vanilla-1s-170px.gif" alt="Nicole" />
-    </p>
-    <p><img src="./Vanilla-1s-289px.gif" alt="Developer" /></p>
-</h1>
-</div>
-<!-- <h1>Hola a todos, aqui pueden tener una mirada de mis proyectos personales.. 😁</h1> -->
-<div style="display: flexbox; flex-direction: column">
-<div style="flex: 1">
-    <p>Habilidades/Skills</p>
-    <ul>
-        <li><b>Javascript</b></li>
-        <li><b>Python</b></li>
-        <li><b>Java</b></li>
-        <li><b>SQL</b></li>
-        <li><b>ABAP</b></li>
-        <li><b>Firebase</b></li>
-        <li><b>Google Cloud Platform</b></li>
-        <li><b>SAP Business Technology Platform</b></li>
-        <!-- <li><b>PHP</b></li> -->
-        <!-- <li><b>RUBY</b></li> -->
-        <!-- <li><b>Python</b></li> -->
-    </ul>
-</div>
-<div style="flex: 1">
-    <p>Frameworks</p>
-    <ul>
-        <li><b>SAPUI5 (Fiori)</b></li>
-        <li><b>React</b></li>
-        <li><b>React Native</b></li>
-        <li><b>Spring</b></li>
-    </ul>
-</div>
-</div>
+# Mia Nicole Ruiz Greco
+
+## Dev Fullstack | SAP Fiori | BTP | ABAP | SAP Build (Citizen Developer) | Analytics Cloud
+
+### 🌍 Based in Santiago Metropolitan Area
+
+Welcome to my GitHub profile! I'm Mia, a dedicated Fullstack Developer with a passion for both frontend and backend development, particularly within the SAP ecosystem. With years of experience crafting solutions using SAPUI5 Fiori, oData Services, SAP Business Technology Platform (BTP), and more, I strive to bring customer-centric, innovative solutions to life.
+
+### 💡 What I Do
+
+- **SAP Fiori Development**: Designing intuitive, user-friendly interfaces.
+- **Backend Solutions**: Leveraging SAP BTP and ABAP for robust, scalable applications.
+- **Custom Development**: Tailoring solutions to meet unique business requirements.
+- **Analytics**: Transforming data into insights with SAP Analytics Cloud.
+
+### 🏆 Certifications
+
+- SAP Certified Citizen Developer Associate - SAP Build Low-code/No-code Applications and Automations
+- SAP Certified Application Associate - SAP Analytics Cloud Story Design
+
+### 🌱 Learning & Growing
+
+Every project is an opportunity for growth, and I'm constantly seeking to expand my skill set and embrace new challenges. 
+
+### 📫 Get In Touch
+
+- LinkedIn: [mia-nicole-ruiz-greco](https://www.linkedin.com/in/mia-nicole-ruiz-greco)
+- Email: miarg49@gmail.com
+
+Looking forward to collaborating on innovative projects and exploring new technologies together!
+
