@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Mia Nicole Ruiz Greco
 
-## Dev Fullstack | SAP Fiori | BTP | ABAP | SAP Build (Citizen Developer) | Analytics Cloud
+## Dev Fullstack | SAP Fiori | BTP | ABAP | SAP Build (Citizen Developer) | Analytics Cloud | Mobile Services
 
 ### 🌍 Based in Santiago Metropolitan Area
 
